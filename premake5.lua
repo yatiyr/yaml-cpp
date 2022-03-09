@@ -7,8 +7,8 @@ project "yaml-cpp"
 
 	files
 	{
-		"src/**.h"
-		"src/**.cpp"
+		"src/**.h",
+		"src/**.cpp",
 
 		"include/**.h"
 	}
